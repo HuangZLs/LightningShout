@@ -1,0 +1,3 @@
+name: LightningShout
+version: '${project.version}'
+main: me.huangzl.lightningshout.LightningShout
